@@ -1,12 +1,14 @@
 <div align="center">
 
-# Hi 👋, I'm **Syed Zain Bukhari**
+# 👋 Hi, I'm Syed Zain Bukhari
 
-### 💻 Full Stack MERN Developer | Software Engineering Undergraduate
+### 🚀 Full Stack MERN Developer
 
-*Building scalable web applications with modern technologies.*
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;MERN+Stack+Developer;Software+Engineering+Undergraduate;Open+Source+Enthusiast;Always+Learning+New+Technologies+%F0%9F%9A%80" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Computer+Science+Undergraduate;Building+Scalable+Web+Applications;Always+Learning+New+Technologies;Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Code%20%7C%20Build%20%7C%20Innovate&fontColor=ffffff&fontSize=40&animation=twinkling"/>
+
+</div>
 
 <p>
   <a href="https://github.com/bukhari57">

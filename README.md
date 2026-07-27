@@ -6,6 +6,8 @@
 
 *Building scalable web applications with modern technologies.*
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Computer+Science+Undergraduate;Building+Scalable+Web+Applications;Always+Learning+New+Technologies;Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
+
 <p>
   <a href="https://github.com/bukhari57">
     <img src="https://komarev.com/ghpvc/?username=bukhari57&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />

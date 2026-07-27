@@ -1,14 +1,22 @@
+
 <div align="center">
 
-# 👋 Hi, I'm Syed Zain Bukhari
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24,30&text=Syed%20Zain%20Bukhari&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Software%20Engineering%20Undergraduate&descAlignY=58&descSize=18"/>
 
-### 🚀 Full Stack MERN Developer
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;MERN+Stack+Developer;Software+Engineering+Undergraduate;Open+Source+Enthusiast;Always+Learning+New+Technologies+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=120&lines=Building+Scalable+Web+Applications;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Express;MongoDB+%E2%80%A2+PostgreSQL+%E2%80%A2+TypeScript;Clean+Code+%7C+REST+APIs+%7C+System+Design;Always+Learning+Something+New+%F0%9F%9A%80" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Code%20%7C%20Build%20%7C%20Innovate&fontColor=ffffff&fontSize=40&animation=twinkling"/>
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=bukhari57&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bukhari57&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
+```
 
 <p>
   <a href="https://github.com/bukhari57">

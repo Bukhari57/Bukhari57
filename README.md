@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm **Syed Zain Bukhari**
 
-### 💻 Full Stack MERN Developer | Computer Science Undergraduate
+### 💻 Full Stack MERN Developer | Software Engineering Undergraduate
 
 *Building scalable web applications with modern technologies.*
 
@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 * 💻 Full Stack **MERN** Developer passionate about building modern web applications.
-* 🎓 Final-year Computer Science undergraduate.
+* 🎓 Final-year Software Engineering undergraduate.
 * 🌱 Currently learning **Next.js**, **TypeScript**, **System Design**, and **AI Integration**.
 * 🔭 Working on scalable full-stack applications and RESTful APIs.
 * 🎯 Seeking Software Engineering and Full Stack Development opportunities.
